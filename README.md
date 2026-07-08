@@ -25,5 +25,3 @@ I’m passionate about **low-level programming** — understanding how software 
 ### 📌 Featured Projects
 
 ---
-
-*“The closer you get to the metal, the more you understand the machine.”*
