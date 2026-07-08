@@ -1,6 +1,6 @@
 ## 👇About Me👇
 
--- My name --
+# -- My name --
 | Giovanni López Figueroa |
 
 -- 🌱 I'm learning --
