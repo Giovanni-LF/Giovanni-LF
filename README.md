@@ -23,6 +23,7 @@ I’m passionate about **low-level programming** — understanding how software 
 - Contribute to open source projects
 
 ### 📌 Featured Projects
+
 ---
 
 *“The closer you get to the metal, the more you understand the machine.”*
