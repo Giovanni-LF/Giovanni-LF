@@ -15,3 +15,6 @@
 ### 🛠️ Technologies & Tools
 > - **Languages:** Python, C++
 > - **Environment:** Linux / Command Line, Git & GitHub
+
+### 🎯 Future Goals
+> My goal is to master low-level architecture, build optimized software, and prepare myself to become a Systems Engineer.
