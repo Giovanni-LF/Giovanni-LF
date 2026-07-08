@@ -1,23 +1,28 @@
 # 📌 About Me
 
-### 👤 Name
-> **Giovanni López Figueroa**
+### 👤 Giovanni López Figueroa
 
-### 🗓️ Age
-> **15 years old**
+**Aspiring Systems Engineer & Low-Level Programming Enthusiast**
 
-### 🌱 I'm learning
-> **Python & C++**
+---
 
-### ❓ What do I like?
-> I like low-level programming because I find it fascinating how the software and hardware mesh together.
+### 🌱 Currently Learning
+- **C++** (main focus)
+- Python
+
+### 🔥 What I'm Into
+I’m passionate about **low-level programming** — understanding how software really works close to the hardware. There's something fascinating about optimizing code, memory management, and systems architecture.
 
 ### 🛠️ Technologies & Tools
-> - **Languages:** Python, C++
-> - **Environment:** Linux / Command Line, Git & GitHub
+- **Languages:** C++, Python
+- **Environment:** Linux, Command Line, Git & GitHub
 
-### 🎯 Future Goals
-> My goal is to master low-level architecture, build optimized software, and prepare myself to become a Systems Engineer.
+### 🚀 Current Goals
+- Master C++ and systems programming
+- Build performant, well-engineered software
+- Contribute to open source projects
 
-### 🚀 My current approach
-> Right now, I am fully focused on learning low-level programming and mastering it to the best of my ability; this leads me to concentrate primarily on C++. Above all, I am fascinated by the C++ programming language.
+### 📌 Featured Projects
+---
+
+*“The closer you get to the metal, the more you understand the machine.”*
