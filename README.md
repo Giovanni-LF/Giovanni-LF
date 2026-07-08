@@ -3,6 +3,9 @@
 ### 👤 Name
 > **Giovanni López Figueroa**
 
+### 🗓️ Age
+> **15 years old**
+
 ### 🌱 I'm learning
 > **Python & C++**
 
