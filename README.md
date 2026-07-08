@@ -20,4 +20,4 @@
 > My goal is to master low-level architecture, build optimized software, and prepare myself to become a Systems Engineer.
 
 ### 🚀 My current approach
-> Right now I am totally focused on learning low-level programming in depth and mastering it as much as possible to my abilities, and that means focusing all my attention on C++.
+> Right now, I am completely focused on learning low-level programming in depth, channeling all my efforts into mastering C++ to the best of my abilities.
